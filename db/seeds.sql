@@ -2,7 +2,7 @@
 USE employee_trackerdb;
 
 -- Inserting initial data into 'department' table
-INSERT INTO department (name) VALUES
+INSERT INTO departments (department_name) VALUES
 ('Game Design'),
 ('Programming'),
 ('Art and Graphics'),
@@ -11,7 +11,7 @@ INSERT INTO department (name) VALUES
 ('Human Resources');
 
 -- Inserting initial data into 'role' table
-INSERT INTO role (title, salary, department_id) VALUES
+INSERT INTO roles (title, salary, department_id) VALUES
 ('Senior Game Designer', 95000, 1),
 ('Lead Software Developer', 100000, 2),
 ('Art Director', 90000, 3),
