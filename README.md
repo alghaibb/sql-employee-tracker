@@ -47,16 +47,18 @@ While developing the SQL Employee Tracker project, I gained practical experience
 
 ## Screenshot
 
-<p align="center">
+[Video demonstration](https://www.youtube.com/watch?v=IRswYekCi-M&ab_channel=nomxxn)
+
+<p>
   <img alt="live screenshot of app" src="https://media.giphy.com/media/zEtHESrDdz4Cfv7Us6/giphy.gif"><br>
   Live Sreenshot GIF
 </p>
 
-<p align="center">
+<p>
   <img alt="screenshot-1" src="./assets/images/screenshot1.png"> 
 </p>
 
-<p align="center">
+<p>
   <img alt="screenshot-1" src="./assets/images/screenshot2.png">
 </p>
 
